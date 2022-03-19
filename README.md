@@ -14,7 +14,7 @@
    <img align="center" alt="Ivamberg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Ivamberg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Ivamberg-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-   <img align="right" alt="Ivamberg-pic" height="150" style="border-radius:50px;" src="![image](https://user-images.githubusercontent.com/99219836/159100074-f2ad33d4-05b8-43b7-a24a-54bd7faddd1d.png)">
+   <img align="right" alt="Ivamberg-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/803331572660174901/954540537757716540/picasion.com_24db4f0bd84af106a75aac709a3b34de.gif">
   </div>
 
 ##
