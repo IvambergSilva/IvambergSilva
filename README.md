@@ -14,11 +14,32 @@
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Icon-CSS" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Icon-JavaScript" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Icon-React" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Icon-C" height="30" width="40"
+   <img align="center" alt="Icon-Firebase" height="30" width="40"
+src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
+   <img align="center" alt="Icon-Figma" height="30" width="40"
+src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+    <img align="center" alt="Icon-C" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="Icon-Arduino" height="30" width="40" 
+src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
+</div>
+<br>
+<div style="background-color: white">   
+- ⌛ Em desenvolvimento...
+  <br><br>
+MYSQL >
+    <img align="center" alt="Icon-Mysql" height="30" width="40"
+src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+| DJANGO >
+      <img align="center" alt="Icon-Django" height="30" width="40"
+src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
+| ANGULAR >
+    <img align="center" alt="Icon-Angular" height="30" width="40"
+src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
    <img align="right" alt="Ivamberg-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/803331572660174901/954540537757716540/picasion.com_24db4f0bd84af106a75aac709a3b34de.gif">
 </div>
 
