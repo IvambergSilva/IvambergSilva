@@ -22,6 +22,7 @@
 ### Frameworks 🔨
 
 [![ReacJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://pt-br.reactjs.org/)
+[![ExpressJs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/pt-br/)
   
 ---
 
