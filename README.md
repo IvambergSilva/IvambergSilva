@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/IvambergSilva">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=IvambergSilva&show_icons=true&theme=gotham&border_radius=10" height="180em"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvambergSilva&layout=compact&theme=gotham&border_radius=10" height="180em"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=IvambergSilva&show_icons=true&theme=gotham" height="180em"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvambergSilva&layout=compact&theme=gotham" height="180em"/>
   </a>
 </div>
   
@@ -13,6 +13,7 @@
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -34,7 +35,6 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.notion.so/)
 [![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Notion](https://img.shields.io/badge/Notion-A1A1A1?style=for-the-badge&logo=notion&logoColor=000)](https://www.notion.so/)
-<br>
 [![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](colab.research.google.com)
 [![MicrosoftOffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/)
@@ -44,10 +44,9 @@
 ### Em desenvolvimento de aprendizagem ⏳
 
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](angular.io)
+[![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
 [![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)](https://www.oracle.com/br/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](https://www.djangoproject.com/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.1.x/)
   
 ---
 
