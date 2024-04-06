@@ -15,7 +15,7 @@
 
 [![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://pt-br.reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![NextJS)](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![NextJS)](https://img.shields.io/badge/Next.js-FFF.svg?style=for-the-badge&logo=nextdotjs&logoColor=000)](https://nextjs.org/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](angular.io)
 [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 
@@ -31,8 +31,8 @@
   
 ### Frameworks 🔨
 
+[![Fastiy](https://img.shields.io/badge/Fastify-FFF?style=for-the-badge&logo=fastify&logoColor=000)](https://fastify.dev/)
 [![ExpressJs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/pt-br/)
-
 
 ---
 
